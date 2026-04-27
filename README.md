@@ -102,4 +102,3 @@ Open your preferred web browser and navigate to the local server address:
 This project was engineered for educational purposes as part of the **SmartInternz Applied Data Science Internship Program**.
 
 **Designed & Developed by Abrar Kotwal**
-```
