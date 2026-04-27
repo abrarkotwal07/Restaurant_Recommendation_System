@@ -31,26 +31,26 @@ This architecture strictly adheres to the SmartInternz workspace requirements fo
 Restaurant_Recommendation_System/
 │
 ├── Dataset/
-│   └── zomato.csv.zip                         # Compressed raw analytical dataset
+│   └── zomato.csv.zip                                      # Compressed raw analytical dataset
 │
 ├── Document/
-│   └── RESTAURANT_RECOMMENDATION_SYSTEM.docx  # Final Project Report
+│   └── Abrar_Kotwal_Restaurant_Recommendation_System.docx  # Final Project Report
 │
 ├── Model/
-│   └── Restaurant_Recommendation_System.ipynb # Backup of analysis notebook
+│   └── Restaurant_Recommendation_System.ipynb              # Backup of analysis notebook
 │
 ├── Flask/
-│   ├── static/                                # Compiled CSS/JS assets
+│   ├── static/                                             # Compiled CSS/JS assets
 │   ├── templates/
-│   │   ├── index.html                         # Editorial landing sequence
-│   │   ├── web.html                           # Auto-complete query interface
-│   │   └── result.html                        # Minimalist data output dashboard
+│   │   ├── index.html                                      # Editorial landing sequence
+│   │   ├── web.html                                        # Auto-complete query interface
+│   │   └── result.html                                     # Minimalist data output dashboard
 │   │
-│   ├── app1.py                                # Main Flask Application Server
-│   ├── Restaurant_Recommendation_System.ipynb # Primary Training Script (EDA & Model)
-│   ├── zomato.csv                             # Extracted raw dataset
-│   ├── restaurant.pkl                         # Trained Model Matrix (Auto-generated)
-│   └── restaurant1.csv                        # Cleaned Dataset (Auto-generated)
+│   ├── app1.py                                             # Main Flask Application Server
+│   ├── Restaurant_Recommendation_System.ipynb              # Primary Training Script (EDA & Model)
+│   ├── zomato.csv                                          # Extracted raw dataset
+│   ├── restaurant.pkl                                      # Trained Model Matrix (Auto-generated)
+│   └── restaurant1.csv                                     # Cleaned Dataset (Auto-generated)
 │
 ├── requirements.txt               
 └── README.md  
